@@ -1,3 +1,5 @@
 # Franck-Hertz-experiment
+Cálculos y gráficas
 
-Haga gráficas y calcule las diferencias de potencial y energias bla bla bla.
+# graphics-cuantica
+Gráficos de secciones de orbitales de átomo de hidrógeno
