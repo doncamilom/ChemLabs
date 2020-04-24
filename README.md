@@ -1,4 +1,3 @@
-# viscosidad
+# Informes de laboratorio.
 
-Tratamiento de datos de viscosidad para mayonesa Fruco a 25°C.
-Para ver resultados abrir fila llamada "viscosidad.ipynb"
+Notebooks contienen cálculos, datos, algoritmos y gráficas utilizadas y creadas para informes de laboratorio de cuántica, fisicoquímica y analítica.
